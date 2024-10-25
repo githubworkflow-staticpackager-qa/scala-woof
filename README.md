@@ -1,4 +1,4 @@
-## scala-woof
+## scala-woof new one
 
 An intentionally vulnerable application, to test
 [Snyk's Runtime Monitoring](https://snyk.io/docs/runtime-protection/) offering.
